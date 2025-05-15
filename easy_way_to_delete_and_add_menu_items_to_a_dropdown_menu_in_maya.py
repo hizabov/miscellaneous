@@ -1,5 +1,4 @@
 
-import maya.cmds as cmds
 
 menuItems = cmds.optionMenu('ReplaceDropdownMenuNameHere', query=True, itemListLong=True)
 
