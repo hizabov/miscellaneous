@@ -1,4 +1,3 @@
-import maya.cmds as cmds
 menuItems = cmds.optionMenu('ReplaceDropdownMenuNameHere', query=True, itemListLong=True)
 if menuItems is not None and menuItems != []:
     cmds.deleteUI(menuItems)
