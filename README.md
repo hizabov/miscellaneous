@@ -1,1 +1,1 @@
-A couple of miscellaneous scripts which I find to be really useful.
+A couple of miscellaneous scripts which I found to be really useful.
